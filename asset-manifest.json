@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dzSamurai/static/css/main.e16f38a5.css",
+    "main.js": "/dzSamurai/static/js/main.601753e5.js",
+    "static/js/787.177e23c2.chunk.js": "/dzSamurai/static/js/787.177e23c2.chunk.js",
+    "index.html": "/dzSamurai/index.html",
+    "main.e16f38a5.css.map": "/dzSamurai/static/css/main.e16f38a5.css.map",
+    "main.601753e5.js.map": "/dzSamurai/static/js/main.601753e5.js.map",
+    "787.177e23c2.chunk.js.map": "/dzSamurai/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16f38a5.css",
+    "static/js/main.601753e5.js"
+  ]
+}

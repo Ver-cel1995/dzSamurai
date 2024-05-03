@@ -49,7 +49,7 @@ export const HW3 = () => {
        Сохранить
       </button>
 
-      <h1 style={{ marginTop: '50px' }}>СПИСОК ДЕЛ НА ДЕНЬ:</h1>
+      <h1 style={{ marginTop: '50px' }}>СПИСОК ДЕЛ НА ДЕНЬ11111111111111:</h1>
 
         <ol id={'hw03-tasks'}>
        {texts.map((el, index) => {
